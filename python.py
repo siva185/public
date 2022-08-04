@@ -13,3 +13,6 @@ if len(sys.argv) > 1:
         print(sys.argv[1] + " not found")
 else:
     print("Usage: convert2jpg.py <file
+creds="122343559ioewiofj"
+ user_name="kumar"
+ password="iyasiuhckjnoch9udw'
