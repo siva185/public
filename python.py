@@ -12,4 +12,4 @@ if len(sys.argv) > 1:
     else:
         print(sys.argv[1] + " not found")
 else:
-    print("Usage: convert2jpg.py <file>")
+    print("Usage: convert2jpg.py <file
